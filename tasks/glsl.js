@@ -8,7 +8,7 @@
 
 var os = require('os');
 var cson = require('cson');
-var glslOptimizer = require("marcs-glsl-optimizer");
+var glslOptimizer = require("glsl-optimizer");
 
 if (typeof String.prototype.startsWith != 'function')
 {
