@@ -30,7 +30,7 @@
   },
   "dependencies": {
     "cson": "~3.0.0",
-    "marcs-glsl-optimizer": "~0.1.0"
+    "marcs-glsl-optimizer": "git://github.com/iProov/glsl-optimizer.git#node-v7"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "^1.0.0",
